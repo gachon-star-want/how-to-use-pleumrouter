@@ -1,6 +1,6 @@
 <div align="center">
 
-# Awesome PleumRouter
+# How to use PleumRouter
 
 **API 키 하나로 200개+ AI 모델 — OpenAI 호환, 원화(₩) 과금.**
 

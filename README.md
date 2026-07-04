@@ -1,6 +1,6 @@
 <div align="center">
 
-# Awesome PleumRouter
+# How to use PleumRouter
 
 **One API key for 200+ AI models — OpenAI-compatible, billed in KRW.**
 
